@@ -8,7 +8,7 @@ export default {
     data(){
         return{
             testVal: 'Hello World!',
-            val2: 'Testing val2'
+            val2: 'Hello World!'
         }
     }
 }
